@@ -100,9 +100,9 @@ Thanks for Visting!
 
 ## 🤝🏻 &nbsp;Connect with Me
 
- [![LinkedIn](https://img.shields.io/badge/-Ranjith%20Jupaka-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ranjithjupaka/)
- [![Gmail](https://img.shields.io/badge/-ranjithjupaka@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:ranjithjupaka@gmail.com)
- [![Instaggram](https://img.shields.io/badge/-@ranjithjupaka_1-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/ranjithjupaka_1/)
+ [![LinkedIn](https://img.shields.io/badge/-Sri%20Shivathmika%20Oruganti-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sri-shivathmika/)
+ [![Gmail](https://img.shields.io/badge/-srishivathmika@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:srishivathmika@gmail.com)
+
 
  
 <!-- <p align="center">
