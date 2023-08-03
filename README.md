@@ -3,7 +3,7 @@ Hi 👋 This is Sri Shivathmika Oruganti
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-I am a prefinal year IT student at *IIITM, Gwalior* with good knowledge and skills in full stack web development. I am an enthusiastic developer. Other areas of interest include AI. 
+I am a prefinal year IT student at *IIITM, Gwalior* with good knowledge and skills in full stack web development. I am an enthusiastic developer. Other areas of interest include Blockchain. 
 
 * 🌍  I'm based in Hyderabad, Telangana, India
 * ✉️  You can contact me at [srishivathmika@gmail.com](mailto:srishivathmika@gmail.com)
@@ -94,8 +94,8 @@ I am a prefinal year IT student at *IIITM, Gwalior* with good knowledge and skil
 
 Thanks for Visting!
 <img align="right" alt="GIF" height="60px" src="https://media3.giphy.com/media/Vgr21IY5gbY2iinySW/giphy.gif?cid=ecf05e477irxoi6bz2fgvw0n90m8klke03di9w6rtup3eqfh&rid=giphy.gif" />
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=saloniankita&repo=ranjithjupaka&countColorcountColor&countColor=%237B1E7B"/>
-
+<!-- <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=saloniankita&repo=srishivathmika1809&countColorcountColor&countColor=%237B1E7B"/>
+-->
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## 🤝🏻 &nbsp;Connect with Me
