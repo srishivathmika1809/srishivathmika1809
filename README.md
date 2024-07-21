@@ -3,13 +3,13 @@ Hi 👋 This is Sri Shivathmika Oruganti
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-I am a prefinal year IT student at *IIITM, Gwalior* with good knowledge and skills in full stack web development. I am an enthusiastic developer. Other areas of interest include Blockchain. 
+I am a final year IT student at *IIITM, Gwalior* with good knowledge and skills in full stack web development. I am an enthusiastic developer and cloud enthusiast.
 
-* 🌍  I'm based in Hyderabad, Telangana, India
-* ✉️  You can contact me at [srishivathmika@gmail.com](mailto:srishivathmika@gmail.com)
+* 🌍  I'm based in Nizamabad, Telangana, India
+* ✉️  You can contact me at [srishivathmikaoruganti@gmail.com](mailto:srishivathmikaoruganti@gmail.com)
 * 🧠  I'm Currently Exploring Solidity
 * 🤝  I'm open to collaborating on unique and interesting projects
-* ⚡  I\`m a competitive coder too. I code on platforms: CodeChef,leetcode
+* ⚡  I\`m a competitive coder too. I code on platforms: [leetcode](https://leetcode.com/u/Shiva-1809/)
 
 <!-- ## :star: &nbsp;CP ratings
 [![Badge](https://cp-logo.vercel.app/codeforces/ranjithjupaka?logo=true)](https://codeforces.com/profile/ranjithjupaka)
@@ -66,8 +66,7 @@ I am a prefinal year IT student at *IIITM, Gwalior* with good knowledge and skil
 - **IDEs**
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
-![Pychham](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)&nbsp;
-![Android Studio](https://img.shields.io/badge/Android_Studio-%2311AB00.svg?style=for-the-badge&logo=android-studio&logoColor=white)&nbsp;
+![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)&nbsp;
 
 ***
 
